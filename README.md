@@ -4,6 +4,10 @@
 
 &nbsp;
 
+![LICENSE](https://img.shields.io/github/license/CosasDePuma/ArcadeReturns.svg?style=for-the-badge) [![language](https://img.shields.io/badge/made%20with-löve%20❤️-blue.svg?style=for-the-badge)](https://www.javascript.com/)
+
+
+
 :floppy_disk: Clone me!
 ----
 
@@ -34,4 +38,16 @@ PONG
 
 :page_facing_up: License
 ----
-![LICENSE](https://img.shields.io/github/license/CosasDePuma/ArcadeReturns.svg?style=flat-square) Please, read the [LICENSE](https://raw.githubusercontent.com/CosasDePuma/ArcadeReturns/master/LICENSE) file if you have any question.
+Please, read the [LICENSE](https://raw.githubusercontent.com/CosasDePuma/ArcadeReturns/master/LICENSE) file if you have any question.
+
+:octopus: Support the developer!
+----
+Everything I do and publish can be used for free whenever I receive my corresponding merit.
+
+Anyway, if you want to help me in a more direct way, you can leave me a tip by clicking on this badge:
+
+<p align="center">
+    </br>
+    <a href="https://www.paypal.me/cosasdepuma/"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge" alt="PayPal Donation"></img></a>
+</p>
+
