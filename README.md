@@ -29,7 +29,7 @@ All compiled versions are in the `bin/` folder within the game directories.
 PONG
 ----
 <h1 align="center">
- <img src="https://cdn.rawgit.com/CosasDePuma/ArcadeReturns/2053b35b/.repository/pong.png" alt="Pong" width="600" height="435">
+ <img src="https://cdn.rawgit.com/CosasDePuma/ArcadeReturns/f3ab6c6e/.repository/pong.gif" alt="Pong" width="600" height="435">
 </h1>
 
 :page_facing_up: License
