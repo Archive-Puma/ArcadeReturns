@@ -17,11 +17,20 @@ You can also download the source code in **[.zip format](https://github.com/cosa
 :electric_plug: Requirements
 ----
 
-<img src="https://www.libretro.com/wp-content/uploads/2017/12/love2dlogo.png" alt="Löve" align="right" width="100">
+<img src="https://www.libretro.com/wp-content/uploads/2017/12/love2dlogo.png" alt="Löve" align="right" width="100" height="50" >
 
 You need to install [LÖVE](https://love2d.org/) in your computer if you want to run the source code directly.
 
 All compiled versions are in the `bin /` folder within the game directories.
+
+:space_invader: Games
+----
+
+PONG
+----
+<h1 align="center">
+ <img src="https://cdn.rawgit.com/CosasDePuma/ArcadeReturns/2053b35b/.repository/pong.png" alt="Pong" width="600" height="435">
+</h1>
 
 :page_facing_up: License
 ----
