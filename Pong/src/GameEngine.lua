@@ -1,10 +1,10 @@
 GameEngine = Object:extend()
 
+local sound
+local text = {}
 local chunks = 27
 local leftScore = 0
 local rightScore = 0
-local text = {}
-
 
 function GameEngine:new()
   self.ball = Ball("left")
@@ -13,6 +13,8 @@ function GameEngine:new()
 
   text.size = 55
   text.font = love.graphics.newFont("font/ca.ttf", text.size)
+
+  sound = love.audio.newSource("audio/point.wav", "static")
 end
 
 function drawField(chunks, h)
@@ -29,9 +31,11 @@ function check(self)
   elseif self.ball.x <= 0 then
     rightScore = rightScore + 1
     self.ball = Ball("left")
+    sound:play()
   elseif self.ball.x + self.ball.length >= love.graphics.getWidth() then
     leftScore = leftScore + 1
     self.ball = Ball("right")
+    sound:play()
   end
 end
 
