@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://cdn.rawgit.com/CosasDePuma/ArcadeReturns/c73236ff/.repository/logo.png" alt="Arcade Returns!" width="480" height="320">
+ <img src="https://cdn.rawgit.com/CosasDePuma/ArcadeReturns/c73236ff/.repository/logo.png" alt="Arcade Returns!" width="380" height="220">
 </h1>
 
 &nbsp;
@@ -17,7 +17,7 @@ You can also download the source code in **[.zip format](https://github.com/cosa
 :electric_plug: Requirements
 ----
 
-<img src="https://www.libretro.com/wp-content/uploads/2017/12/love2dlogo.png" alt="Löve" align="right" width="100" height="50" >
+<img src="https://www.libretro.com/wp-content/uploads/2017/12/love2dlogo.png" alt="Löve" align="right" width="100">
 
 You need to install [LÖVE](https://love2d.org/) in your computer if you want to run the source code directly.
 
