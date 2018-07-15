@@ -2,6 +2,7 @@ function love.load()
   Object = require("lib/classic")
 
   require("src/Pad")
+  require("src/Ball")
   require("src/GameEngine")
 
   Game = GameEngine()
