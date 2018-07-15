@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://cdn.rawgit.com/CosasDePuma/ArcadeReturns/c73236ff/.repository/logo.png" alt="Arcade Returns!" width="380" height="220">
+ <img src="https://cdn.rawgit.com/CosasDePuma/ArcadeReturns/c73236ff/.repository/logo.png" alt="Arcade Returns!" width="350" height="112">
 </h1>
 
 &nbsp;
@@ -21,7 +21,7 @@ You can also download the source code in **[.zip format](https://github.com/cosa
 
 You need to install [LÖVE](https://love2d.org/) in your computer if you want to run the source code directly.
 
-All compiled versions are in the `bin /` folder within the game directories.
+All compiled versions are in the `bin/` folder within the game directories.
 
 :space_invader: Games
 ----
